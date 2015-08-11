@@ -43,7 +43,7 @@ on specific types.
 
 Documentation
 -------------
-See the `valid` package's Pydoc documentation.
+See the package's Pydoc documentation.
 
 Testing
 -------
