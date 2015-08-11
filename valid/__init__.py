@@ -1,5 +1,7 @@
 # cpennello 2014-08-21
 
+# The example usage below is duplicated in the readme.
+
 '''Type validation system.
 
 Example usage:
