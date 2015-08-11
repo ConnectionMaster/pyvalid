@@ -145,6 +145,7 @@ class Bool(Base):
 
   __slots__ = ()
 
+  # Add more values here if need be.
   falsevalues = frozenset((
     '0',
     'false',
